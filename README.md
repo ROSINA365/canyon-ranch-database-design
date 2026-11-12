@@ -1,4 +1,4 @@
-# Group_5_CanyonRanchDB_new.sql
+
 # Canyon Ranch: Relational Database and Data Warehouse Design
 
 End-to-end database project for **Canyon Ranch**, a luxury wellness resort with five properties and more than 500 spa, health and hospitality services. We designed and built a normalized SQL Server database, wrote advanced analytical queries, designed a star-schema data warehouse, and assessed data privacy risks under HIPAA, CCPA and GDPR.
